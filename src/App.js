@@ -1,6 +1,11 @@
 import React from "react";
+
 import "./App.css";
-import NasaApi from "./Component/nasaList";
+import './bootstrap-4.3.1-dist/css/bootstrap.min.css';
+
+import NasaApi from "./Component/NasaApi";
+
+
 
 function App() {
   return (
